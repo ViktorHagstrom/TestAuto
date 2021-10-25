@@ -14,5 +14,7 @@ public class Main {
         b=tmp;
 
         System.out.println("A = " +a + "\nB = " + b);
+
+
     }
 }
